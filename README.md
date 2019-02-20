@@ -1,5 +1,6 @@
 # Image Pattern Finding
-Incorporated CUDA GPU Programming to accelerate the speed of finding multiple patterns within an image
+Incorporated CUDA GPU Programming to accelerate the speed of finding multiple patterns within an image.
+
 Results that once took 10-15 minutes on the CPU, were sped up to 10-20 seconds.
 
 Images:
